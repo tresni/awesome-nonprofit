@@ -76,6 +76,8 @@ First stop should be [TechSoup](http://www.techsoup.org/).  They process a ton o
 ### Website Hosting
 
 * [Wix](https://www.wix.com/blog/2013/04/non-profit-websites/)
+* [blitz.cloud](https://blitz.cloud/verein/) \
+    EU app hosting. Verified non-profits, clubs and schools pay a reduced rate on the Business plan (19 EUR/month, 10 seats included) instead of the regular price.
 
 ### CRM
 
